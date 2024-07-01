@@ -1,0 +1,5 @@
+Term	Count	PValue
+cell migration	11	0.008511280501264727
+defense response to virus	10	0.008583834501344577
+cell cycle	11	0.04585797145237355
+chromatin remodeling	10	0.0629525061926802

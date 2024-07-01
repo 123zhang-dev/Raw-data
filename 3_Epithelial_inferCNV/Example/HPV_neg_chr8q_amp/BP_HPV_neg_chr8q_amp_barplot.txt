@@ -1,0 +1,7 @@
+Term	Count	PValue
+protein destabilization	5	0.0021072255315322543
+negative regulation of epithelial cell proliferation	5	0.005010141378475787
+negative regulation of fibroblast proliferation	4	0.006701579235731635
+translation	8	0.008256017212186289
+lipopolysaccharide-mediated signaling pathway	4	0.00953206571154149
+protein ubiquitination	11	0.03698679847348425

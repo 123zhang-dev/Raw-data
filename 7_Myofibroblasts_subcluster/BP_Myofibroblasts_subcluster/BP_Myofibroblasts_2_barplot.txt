@@ -1,0 +1,9 @@
+Term	Count	PValue
+collagen fibril organization	9	2.9928932632372886e-06
+regulation of cell growth	8	4.9963369509810434e-05
+cell adhesion	18	0.000387303772648883
+signal transduction	30	0.0006974994671817831
+positive chemotaxis	5	0.002775261776546248
+positive regulation of fibroblast proliferation	5	0.004191101085480888
+positive regulation of endothelial cell proliferation	5	0.013341101304435313
+positive regulation of angiogenesis	7	0.01366661518344052

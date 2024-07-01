@@ -1,0 +1,14 @@
+Term	Count	PValue
+actin cytoskeleton organization	25	1.5156686938482309e-05
+cellular response to mechanical stimulus	12	0.00022267421562550288
+response to cold	9	0.00023143888019675298
+cholesterol biosynthetic process	8	0.0006057140028552595
+negative regulation of apoptotic process	38	0.0007590630633863536
+cellular response to heat	9	0.000880579397750047
+regulation of lipid metabolic process	8	0.000974495212082222
+cellular response to leukemia inhibitory factor	13	0.0009940177582516503
+cellular response to interferon-gamma	12	0.001863342028728857
+response to progesterone	7	0.0025416361557772434
+ephrin receptor signaling pathway	8	0.003193149002538752
+response to corticosterone	5	0.004628526610729245
+response to insulin	9	0.009718123732492662

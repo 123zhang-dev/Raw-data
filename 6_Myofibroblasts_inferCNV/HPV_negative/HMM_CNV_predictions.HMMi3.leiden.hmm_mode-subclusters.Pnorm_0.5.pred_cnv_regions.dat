@@ -1,0 +1,346 @@
+cell_group_name	cnv_name	state	chr	start	end
+Myofibroblasts.Myofibroblasts_s4	chr1-region_1	3	chr1	923928	20651511
+Myofibroblasts.Myofibroblasts_s4	chr1-region_3	1	chr1	24631716	32686211
+Myofibroblasts.Myofibroblasts_s4	chr1-region_5	1	chr1	108692310	145844402
+Myofibroblasts.Myofibroblasts_s4	chr1-region_7	1	chr1	156463727	211374946
+Myofibroblasts.Myofibroblasts_s4	chr2-region_10	1	chr2	46616416	156342348
+Myofibroblasts.Myofibroblasts_s4	chr2-region_12	3	chr2	232406844	241729478
+Myofibroblasts.Myofibroblasts_s4	chr4-region_14	3	chr4	425815	7068064
+Myofibroblasts.Myofibroblasts_s4	chr6-region_17	1	chr6	291630	39115186
+Myofibroblasts.Myofibroblasts_s4	chr7-region_20	3	chr7	90466424	159144867
+Myofibroblasts.Myofibroblasts_s4	chr9-region_23	3	chr9	129827290	137870016
+Myofibroblasts.Myofibroblasts_s4	chr11-region_25	3	chr11	167784	43943878
+Myofibroblasts.Myofibroblasts_s4	chr12-region_27	3	chr12	280057	12471233
+Myofibroblasts.Myofibroblasts_s4	chr12-region_29	3	chr12	74537835	104064183
+Myofibroblasts.Myofibroblasts_s4	chr13-region_32	3	chr13	102807146	114337626
+Myofibroblasts.Myofibroblasts_s4	chr14-region_34	1	chr14	96363452	106851417
+Myofibroblasts.Myofibroblasts_s4	chr16-region_37	3	chr16	48244300	67101058
+Myofibroblasts.Myofibroblasts_s4	chr16-region_39	1	chr16	71845996	89968060
+Myofibroblasts.Myofibroblasts_s4	chr17-region_41	1	chr17	63695888	78173527
+Myofibroblasts.Myofibroblasts_s4	chr19-region_45	1	chr19	17309518	45178237
+Myofibroblasts.Myofibroblasts_s4	chr20-region_47	3	chr20	346782	38578859
+Myofibroblasts.Myofibroblasts_s4	chr21-region_50	3	chr21	31659622	46665124
+Myofibroblasts.Myofibroblasts_s3	chr1-region_53	1	chr1	25242249	33431052
+Myofibroblasts.Myofibroblasts_s3	chr1-region_55	1	chr1	109548615	145844402
+Myofibroblasts.Myofibroblasts_s3	chr2-region_58	1	chr2	38743599	157488961
+Myofibroblasts.Myofibroblasts_s3	chr2-region_60	3	chr2	231781671	241729478
+Myofibroblasts.Myofibroblasts_s3	chr3-region_62	1	chr3	16257061	43734371
+Myofibroblasts.Myofibroblasts_s3	chr5-region_66	3	chr5	126600925	140282052
+Myofibroblasts.Myofibroblasts_s3	chr6-region_68	1	chr6	291630	39115186
+Myofibroblasts.Myofibroblasts_s3	chr7-region_71	3	chr7	92112153	159144867
+Myofibroblasts.Myofibroblasts_s3	chr11-region_75	3	chr11	167784	34472060
+Myofibroblasts.Myofibroblasts_s3	chr12-region_77	3	chr12	280057	12471233
+Myofibroblasts.Myofibroblasts_s3	chr12-region_79	3	chr12	67648338	104350307
+Myofibroblasts.Myofibroblasts_s3	chr14-region_83	3	chr14	59484443	92748679
+Myofibroblasts.Myofibroblasts_s3	chr14-region_85	1	chr14	102777476	106851417
+Myofibroblasts.Myofibroblasts_s3	chr15-region_87	3	chr15	52307283	67255195
+Myofibroblasts.Myofibroblasts_s3	chr16-region_90	1	chr16	75566375	89968060
+Myofibroblasts.Myofibroblasts_s3	chr17-region_92	1	chr17	63819433	76726799
+Myofibroblasts.Myofibroblasts_s3	chr19-region_96	1	chr19	17267376	58555105
+Myofibroblasts.Myofibroblasts_s3	chr20-region_97	3	chr20	346782	41124487
+Myofibroblasts.Myofibroblasts_s3	chr21-region_100	3	chr21	33324429	46665124
+Myofibroblasts.Myofibroblasts_s2	chr1-region_103	1	chr1	23956839	37859592
+Myofibroblasts.Myofibroblasts_s2	chr1-region_105	3	chr1	150321479	155138857
+Myofibroblasts.Myofibroblasts_s2	chr1-region_107	1	chr1	156591762	206923247
+Myofibroblasts.Myofibroblasts_s2	chr2-region_110	1	chr2	70209444	157488961
+Myofibroblasts.Myofibroblasts_s2	chr2-region_112	3	chr2	232606057	241729478
+Myofibroblasts.Myofibroblasts_s2	chr6-region_116	1	chr6	291630	37394734
+Myofibroblasts.Myofibroblasts_s2	chr7-region_119	3	chr7	92112153	101321823
+Myofibroblasts.Myofibroblasts_s2	chr7-region_121	3	chr7	130486171	159144867
+Myofibroblasts.Myofibroblasts_s2	chr9-region_124	3	chr9	128882112	137870016
+Myofibroblasts.Myofibroblasts_s2	chr11-region_126	3	chr11	167784	6610874
+Myofibroblasts.Myofibroblasts_s2	chr12-region_129	3	chr12	1688574	12645108
+Myofibroblasts.Myofibroblasts_s2	chr13-region_132	3	chr13	110148963	114337626
+Myofibroblasts.Myofibroblasts_s2	chr14-region_134	1	chr14	96501433	106851417
+Myofibroblasts.Myofibroblasts_s2	chr16-region_137	3	chr16	47461123	66873256
+Myofibroblasts.Myofibroblasts_s2	chr16-region_139	1	chr16	75647773	89968060
+Myofibroblasts.Myofibroblasts_s2	chr17-region_141	1	chr17	63550477	78108835
+Myofibroblasts.Myofibroblasts_s2	chr18-region_143	1	chr18	158383	80050651
+Myofibroblasts.Myofibroblasts_s2	chr20-region_146	3	chr20	435480	43466046
+Myofibroblasts.Myofibroblasts_s2	chr21-region_149	3	chr21	34073224	46665124
+Myofibroblasts.Myofibroblasts_s5	chr1-region_152	1	chr1	23964347	32336233
+Myofibroblasts.Myofibroblasts_s5	chr1-region_154	3	chr1	53946085	89272804
+Myofibroblasts.Myofibroblasts_s5	chr1-region_156	1	chr1	156082573	162812817
+Myofibroblasts.Myofibroblasts_s5	chr2-region_159	1	chr2	71276561	131353709
+Myofibroblasts.Myofibroblasts_s5	chr2-region_161	3	chr2	169791933	197435091
+Myofibroblasts.Myofibroblasts_s5	chr2-region_163	3	chr2	233354507	241729478
+Myofibroblasts.Myofibroblasts_s5	chr3-region_165	3	chr3	139005806	184368596
+Myofibroblasts.Myofibroblasts_s5	chr4-region_167	3	chr4	425815	10116949
+Myofibroblasts.Myofibroblasts_s5	chr6-region_170	1	chr6	291630	39115186
+Myofibroblasts.Myofibroblasts_s5	chr6-region_172	3	chr6	112070663	147390476
+Myofibroblasts.Myofibroblasts_s5	chr7-region_175	3	chr7	88205118	159144867
+Myofibroblasts.Myofibroblasts_s5	chr8-region_177	3	chr8	27633868	54022456
+Myofibroblasts.Myofibroblasts_s5	chr9-region_180	3	chr9	37422666	113275572
+Myofibroblasts.Myofibroblasts_s5	chr9-region_182	3	chr9	133361450	137870016
+Myofibroblasts.Myofibroblasts_s5	chr10-region_184	3	chr10	16590611	63521850
+Myofibroblasts.Myofibroblasts_s5	chr11-region_187	1	chr11	62761565	72793681
+Myofibroblasts.Myofibroblasts_s5	chr12-region_190	3	chr12	990509	16609259
+Myofibroblasts.Myofibroblasts_s5	chr12-region_192	3	chr12	71125085	103953645
+Myofibroblasts.Myofibroblasts_s5	chr12-region_194	1	chr12	110280756	133159465
+Myofibroblasts.Myofibroblasts_s5	chr13-region_196	3	chr13	94574054	114337626
+Myofibroblasts.Myofibroblasts_s5	chr14-region_198	3	chr14	67294371	90275429
+Myofibroblasts.Myofibroblasts_s5	chr14-region_200	1	chr14	102139503	106851417
+Myofibroblasts.Myofibroblasts_s5	chr16-region_203	1	chr16	14974591	30761176
+Myofibroblasts.Myofibroblasts_s5	chr16-region_205	1	chr16	71859680	89968060
+Myofibroblasts.Myofibroblasts_s5	chr17-region_207	1	chr17	68247930	78225636
+Myofibroblasts.Myofibroblasts_s5	chr19-region_211	1	chr19	16067021	58555105
+Myofibroblasts.Myofibroblasts_s5	chr20-region_212	3	chr20	346782	36612557
+Myofibroblasts.Myofibroblasts_s5	chr21-region_214	3	chr21	5079294	46665124
+Myofibroblasts.Myofibroblasts_s1	chr1-region_216	3	chr1	923928	16613562
+Myofibroblasts.Myofibroblasts_s1	chr1-region_218	1	chr1	157794403	214664571
+Myofibroblasts.Myofibroblasts_s1	chr2-region_221	1	chr2	127701027	165689407
+Myofibroblasts.Myofibroblasts_s1	chr6-region_226	1	chr6	291630	36839444
+Myofibroblasts.Myofibroblasts_s1	chr6-region_228	1	chr6	78934419	111606906
+Myofibroblasts.Myofibroblasts_s1	chr9-region_233	3	chr9	128552558	137870016
+Myofibroblasts.Myofibroblasts_s1	chr10-region_235	3	chr10	114294824	133422520
+Myofibroblasts.Myofibroblasts_s1	chr12-region_237	3	chr12	280057	6997428
+Myofibroblasts.Myofibroblasts_s1	chr14-region_241	1	chr14	105009573	106851417
+Myofibroblasts.Myofibroblasts_s1	chr16-region_243	3	chr16	46407	4456775
+Myofibroblasts.Myofibroblasts_s1	chr17-region_246	3	chr17	80991598	82945914
+Myofibroblasts.Myofibroblasts_s1	chr20-region_249	3	chr20	346782	36528637
+Myofibroblasts.Myofibroblasts_s1	chr21-region_252	3	chr21	39342315	46665124
+Myofibroblasts.Myofibroblasts_s6	chr1-region_255	1	chr1	23303771	32176563
+Myofibroblasts.Myofibroblasts_s6	chr1-region_257	3	chr1	44221070	100132955
+Myofibroblasts.Myofibroblasts_s6	chr1-region_259	1	chr1	156594487	171742074
+Myofibroblasts.Myofibroblasts_s6	chr2-region_262	1	chr2	121726945	161236230
+Myofibroblasts.Myofibroblasts_s6	chr2-region_264	1	chr2	190880827	218033982
+Myofibroblasts.Myofibroblasts_s6	chr2-region_266	3	chr2	231706895	241729478
+Myofibroblasts.Myofibroblasts_s6	chr3-region_268	3	chr3	136250340	180982753
+Myofibroblasts.Myofibroblasts_s6	chr4-region_271	3	chr4	118850688	189963202
+Myofibroblasts.Myofibroblasts_s6	chr5-region_273	2	chr5	150000046	181248096
+Myofibroblasts.Myofibroblasts_s6	chr6-region_274	1	chr6	291630	36964837
+Myofibroblasts.Myofibroblasts_s6	chr6-region_276	3	chr6	116267760	139043302
+Myofibroblasts.Myofibroblasts_s6	chr7-region_279	3	chr7	37683843	100867010
+Myofibroblasts.Myofibroblasts_s6	chr7-region_281	3	chr7	143288215	159144867
+Myofibroblasts.Myofibroblasts_s6	chr9-region_284	3	chr9	34689570	111599893
+Myofibroblasts.Myofibroblasts_s6	chr9-region_286	3	chr9	129738331	137870016
+Myofibroblasts.Myofibroblasts_s6	chr11-region_288	2	chr11	167784	57568284
+Myofibroblasts.Myofibroblasts_s6	chr11-region_290	2	chr11	64359148	73931124
+Myofibroblasts.Myofibroblasts_s6	chr12-region_292	3	chr12	280057	14502935
+Myofibroblasts.Myofibroblasts_s6	chr14-region_296	1	chr14	23321289	50561126
+Myofibroblasts.Myofibroblasts_s6	chr14-region_298	3	chr14	60091911	80387757
+Myofibroblasts.Myofibroblasts_s6	chr14-region_300	1	chr14	93207241	106851417
+Myofibroblasts.Myofibroblasts_s6	chr16-region_303	1	chr16	23835983	46689518
+Myofibroblasts.Myofibroblasts_s6	chr16-region_305	1	chr16	75293698	89968060
+Myofibroblasts.Myofibroblasts_s6	chr17-region_307	1	chr17	2322503	7557890
+Myofibroblasts.Myofibroblasts_s6	chr17-region_309	1	chr17	63550477	82945914
+Myofibroblasts.Myofibroblasts_s6	chr19-region_312	1	chr19	34677639	43754962
+Myofibroblasts.Myofibroblasts_s6	chr20-region_314	2	chr20	346782	45811427
+Myofibroblasts.Myofibroblasts_s6	chr20-region_316	1	chr20	57351223	64287821
+Myofibroblasts.Myofibroblasts_s6	chr21-region_318	3	chr21	37365573	46665124
+Myofibroblasts.Myofibroblasts_s7	chr1-region_320	3	chr1	923928	23177808
+Myofibroblasts.Myofibroblasts_s7	chr1-region_322	3	chr1	70144805	100132955
+Myofibroblasts.Myofibroblasts_s7	chr1-region_324	2	chr1	150265399	156058510
+Myofibroblasts.Myofibroblasts_s7	chr1-region_325	1	chr1	156082573	221742089
+Myofibroblasts.Myofibroblasts_s7	chr2-region_328	1	chr2	73762184	101308701
+Myofibroblasts.Myofibroblasts_s7	chr2-region_330	3	chr2	127257290	201085750
+Myofibroblasts.Myofibroblasts_s7	chr2-region_331	1	chr2	201116154	229923239
+Myofibroblasts.Myofibroblasts_s7	chr4-region_334	3	chr4	425815	15853232
+Myofibroblasts.Myofibroblasts_s7	chr5-region_336	3	chr5	271621	62537249
+Myofibroblasts.Myofibroblasts_s7	chr5-region_338	3	chr5	131423921	140662480
+Myofibroblasts.Myofibroblasts_s7	chr6-region_341	1	chr6	24649979	49463253
+Myofibroblasts.Myofibroblasts_s7	chr6-region_343	3	chr6	112070663	144064599
+Myofibroblasts.Myofibroblasts_s7	chr7-region_346	3	chr7	35632659	159144867
+Myofibroblasts.Myofibroblasts_s7	chr8-region_347	3	chr8	614746	41510980
+Myofibroblasts.Myofibroblasts_s7	chr8-region_349	1	chr8	53966552	145066685
+Myofibroblasts.Myofibroblasts_s7	chr9-region_350	3	chr9	14475	94461042
+Myofibroblasts.Myofibroblasts_s7	chr9-region_352	3	chr9	128720870	137870016
+Myofibroblasts.Myofibroblasts_s7	chr10-region_353	1	chr10	134465	17237593
+Myofibroblasts.Myofibroblasts_s7	chr11-region_355	3	chr11	167784	7677222
+Myofibroblasts.Myofibroblasts_s7	chr11-region_357	2	chr11	60890547	67586656
+Myofibroblasts.Myofibroblasts_s7	chr12-region_360	2	chr12	50085200	56163496
+Myofibroblasts.Myofibroblasts_s7	chr13-region_363	3	chr13	78614289	114337626
+Myofibroblasts.Myofibroblasts_s7	chr14-region_365	2	chr14	56488354	96093889
+Myofibroblasts.Myofibroblasts_s7	chr14-region_366	1	chr14	96204679	106851417
+Myofibroblasts.Myofibroblasts_s7	chr15-region_368	3	chr15	44711487	65133808
+Myofibroblasts.Myofibroblasts_s7	chr16-region_371	3	chr16	566995	4847288
+Myofibroblasts.Myofibroblasts_s7	chr16-region_373	3	chr16	30650717	67660815
+Myofibroblasts.Myofibroblasts_s7	chr16-region_375	1	chr16	77190835	89968060
+Myofibroblasts.Myofibroblasts_s7	chr17-region_377	3	chr17	43483865	75168281
+Myofibroblasts.Myofibroblasts_s7	chr18-region_380	2	chr18	12991362	80050651
+Myofibroblasts.Myofibroblasts_s7	chr19-region_382	1	chr19	18434388	47275723
+Myofibroblasts.Myofibroblasts_s7	chr20-region_384	2	chr20	346782	46689444
+Myofibroblasts.Myofibroblasts_s7	chr21-region_387	3	chr21	31659622	46665124
+Myofibroblasts.Myofibroblasts_s8	chr1-region_390	3	chr1	9848276	23762059
+Myofibroblasts.Myofibroblasts_s8	chr1-region_391	1	chr1	23778418	43389808
+Myofibroblasts.Myofibroblasts_s8	chr1-region_393	1	chr1	92832013	145996579
+Myofibroblasts.Myofibroblasts_s8	chr1-region_395	1	chr1	154974653	160647295
+Myofibroblasts.Myofibroblasts_s8	chr1-region_397	1	chr1	228100726	248849517
+Myofibroblasts.Myofibroblasts_s8	chr2-region_399	1	chr2	85561562	159616569
+Myofibroblasts.Myofibroblasts_s8	chr2-region_401	3	chr2	174348022	241729478
+Myofibroblasts.Myofibroblasts_s8	chr3-region_402	1	chr3	2098813	53347586
+Myofibroblasts.Myofibroblasts_s8	chr3-region_404	3	chr3	88051944	190322446
+Myofibroblasts.Myofibroblasts_s8	chr4-region_406	3	chr4	425815	7033118
+Myofibroblasts.Myofibroblasts_s8	chr5-region_409	1	chr5	69234795	120687332
+Myofibroblasts.Myofibroblasts_s8	chr6-region_412	1	chr6	24804282	44234151
+Myofibroblasts.Myofibroblasts_s8	chr7-region_415	3	chr7	77537295	159144867
+Myofibroblasts.Myofibroblasts_s8	chr8-region_417	1	chr8	48008415	100722809
+Myofibroblasts.Myofibroblasts_s8	chr9-region_419	3	chr9	14475	115118257
+Myofibroblasts.Myofibroblasts_s8	chr9-region_421	3	chr9	129887187	137870016
+Myofibroblasts.Myofibroblasts_s8	chr10-region_423	3	chr10	102245532	133422520
+Myofibroblasts.Myofibroblasts_s8	chr11-region_425	2	chr11	18322295	47594411
+Myofibroblasts.Myofibroblasts_s8	chr11-region_427	1	chr11	65857126	74949200
+Myofibroblasts.Myofibroblasts_s8	chr11-region_429	2	chr11	116748170	134265855
+Myofibroblasts.Myofibroblasts_s8	chr12-region_430	3	chr12	280057	10223128
+Myofibroblasts.Myofibroblasts_s8	chr12-region_432	3	chr12	57782761	109477359
+Myofibroblasts.Myofibroblasts_s8	chr12-region_434	1	chr12	120461672	133159465
+Myofibroblasts.Myofibroblasts_s8	chr14-region_437	3	chr14	60734742	94081212
+Myofibroblasts.Myofibroblasts_s8	chr14-region_439	1	chr14	103333544	106851417
+Myofibroblasts.Myofibroblasts_s8	chr15-region_440	3	chr15	22838641	74645414
+Myofibroblasts.Myofibroblasts_s8	chr16-region_443	1	chr16	14071321	30431108
+Myofibroblasts.Myofibroblasts_s8	chr16-region_444	3	chr16	30443631	68301823
+Myofibroblasts.Myofibroblasts_s8	chr16-region_445	1	chr16	68284503	89968060
+Myofibroblasts.Myofibroblasts_s8	chr17-region_446	1	chr17	508668	7514618
+Myofibroblasts.Myofibroblasts_s8	chr17-region_448	2	chr17	44395281	59155260
+Myofibroblasts.Myofibroblasts_s8	chr18-region_451	3	chr18	58671465	80050651
+Myofibroblasts.Myofibroblasts_s8	chr19-region_453	3	chr19	10718079	14778560
+Myofibroblasts.Myofibroblasts_s8	chr19-region_455	1	chr19	17511636	58555105
+Myofibroblasts.Myofibroblasts_s8	chr20-region_457	3	chr20	1442162	45348424
+Myofibroblasts.Myofibroblasts_s8	chr20-region_459	3	chr20	58309715	64287821
+Myofibroblasts.Myofibroblasts_s8	chr21-region_461	3	chr21	37365573	46665124
+Myofibroblasts.Myofibroblasts_s8	chr22-region_463	3	chr22	41576900	50628173
+Myofibroblasts.Myofibroblasts_s9	chr1-region_465	1	chr1	23795599	31364953
+Myofibroblasts.Myofibroblasts_s9	chr1-region_467	1	chr1	62784132	112463456
+Myofibroblasts.Myofibroblasts_s9	chr1-region_469	1	chr1	156308968	248849517
+Myofibroblasts.Myofibroblasts_s9	chr2-region_471	1	chr2	27070472	43596046
+Myofibroblasts.Myofibroblasts_s9	chr2-region_472	3	chr2	43637260	65087004
+Myofibroblasts.Myofibroblasts_s9	chr2-region_474	1	chr2	74152528	98731132
+Myofibroblasts.Myofibroblasts_s9	chr2-region_476	1	chr2	136114349	171999859
+Myofibroblasts.Myofibroblasts_s9	chr2-region_478	3	chr2	232550674	241729478
+Myofibroblasts.Myofibroblasts_s9	chr3-region_480	3	chr3	48467798	121660927
+Myofibroblasts.Myofibroblasts_s9	chr3-region_482	3	chr3	184155377	197956610
+Myofibroblasts.Myofibroblasts_s9	chr4-region_484	3	chr4	2930561	67545503
+Myofibroblasts.Myofibroblasts_s9	chr4-region_485	1	chr4	67558727	106321495
+Myofibroblasts.Myofibroblasts_s9	chr5-region_488	1	chr5	60945205	177497606
+Myofibroblasts.Myofibroblasts_s9	chr5-region_489	3	chr5	177501907	181248096
+Myofibroblasts.Myofibroblasts_s9	chr6-region_490	1	chr6	291630	37175428
+Myofibroblasts.Myofibroblasts_s9	chr6-region_492	1	chr6	118460772	170584692
+Myofibroblasts.Myofibroblasts_s9	chr7-region_493	1	chr7	549197	39708120
+Myofibroblasts.Myofibroblasts_s9	chr7-region_495	3	chr7	76302673	100586129
+Myofibroblasts.Myofibroblasts_s9	chr7-region_497	1	chr7	140719327	159144867
+Myofibroblasts.Myofibroblasts_s9	chr8-region_499	1	chr8	28316986	98046469
+Myofibroblasts.Myofibroblasts_s9	chr8-region_501	3	chr8	143977153	145066685
+Myofibroblasts.Myofibroblasts_s9	chr9-region_502	3	chr9	14475	113597743
+Myofibroblasts.Myofibroblasts_s9	chr10-region_505	3	chr10	12068954	69174412
+Myofibroblasts.Myofibroblasts_s9	chr11-region_507	3	chr11	167784	6655809
+Myofibroblasts.Myofibroblasts_s9	chr11-region_509	1	chr11	57741250	67612554
+Myofibroblasts.Myofibroblasts_s9	chr11-region_511	3	chr11	74171267	117877486
+Myofibroblasts.Myofibroblasts_s9	chr12-region_513	3	chr12	280057	40106089
+Myofibroblasts.Myofibroblasts_s9	chr12-region_515	3	chr12	55818041	79935460
+Myofibroblasts.Myofibroblasts_s9	chr12-region_517	1	chr12	96000753	133159465
+Myofibroblasts.Myofibroblasts_s9	chr13-region_518	1	chr13	19633659	52476628
+Myofibroblasts.Myofibroblasts_s9	chr13-region_519	3	chr13	52652709	114337626
+Myofibroblasts.Myofibroblasts_s9	chr14-region_520	3	chr14	20256558	34462774
+Myofibroblasts.Myofibroblasts_s9	chr14-region_522	3	chr14	57390544	102224847
+Myofibroblasts.Myofibroblasts_s9	chr14-region_523	1	chr14	102341102	106851417
+Myofibroblasts.Myofibroblasts_s9	chr15-region_525	1	chr15	38454127	64146090
+Myofibroblasts.Myofibroblasts_s9	chr16-region_527	3	chr16	46407	10580632
+Myofibroblasts.Myofibroblasts_s9	chr16-region_529	3	chr16	30114105	70373383
+Myofibroblasts.Myofibroblasts_s9	chr16-region_531	1	chr16	84648511	89968060
+Myofibroblasts.Myofibroblasts_s9	chr19-region_534	3	chr19	281040	3209575
+Myofibroblasts.Myofibroblasts_s9	chr19-region_536	1	chr19	12668073	19663676
+Myofibroblasts.Myofibroblasts_s9	chr19-region_538	1	chr19	36009120	39981764
+Myofibroblasts.Myofibroblasts_s9	chr19-region_540	1	chr19	45407333	50431314
+Myofibroblasts.Myofibroblasts_s9	chr20-region_543	3	chr20	20034368	47786616
+Myofibroblasts.Myofibroblasts_s9	chr20-region_544	1	chr20	48624252	64287821
+Myofibroblasts.Myofibroblasts_s9	chr21-region_546	3	chr21	32733899	46665124
+Myofibroblasts.Myofibroblasts_s9	chr22-region_547	3	chr22	17084954	50628173
+B cells.B cells_s5	chr7-region_643	3	chr7	92198969	128506602
+B cells.B cells_s6	chr9-region_691	3	chr9	92493554	122828588
+B cells.B cells_s6	chr20-region_703	3	chr20	346782	35959472
+B cells.B cells_s10	chr6-region_713	3	chr6	29722775	33289247
+B cells.B cells_s7	chr5-region_758	3	chr5	43065176	109869625
+B cells.B cells_s9	chr1-region_778	3	chr1	25222276	32650903
+B cells.B cells_s9	chr1-region_780	1	chr1	186375838	221742089
+B cells.B cells_s9	chr2-region_783	1	chr2	84971093	112119318
+B cells.B cells_s9	chr3-region_786	3	chr3	100492619	128408646
+B cells.B cells_s9	chr6-region_791	3	chr6	16299112	33009591
+B cells.B cells_s9	chr6-region_793	1	chr6	157289386	170584692
+B cells.B cells_s9	chr7-region_795	3	chr7	92245974	159144867
+B cells.B cells_s9	chr8-region_797	1	chr8	69466624	145066685
+B cells.B cells_s9	chr9-region_799	2	chr9	95442980	137870016
+B cells.B cells_s9	chr10-region_801	1	chr10	52314281	80437115
+B cells.B cells_s9	chr14-region_807	3	chr14	105419820	106851417
+B cells.B cells_s9	chr16-region_810	3	chr16	15865719	31112791
+B cells.B cells_s9	chr18-region_813	3	chr18	158383	80050651
+B cells.B cells_s9	chr21-region_817	2	chr21	42199689	46665124
+B cells.B cells_s13	chr2-region_821	1	chr2	127048027	177223958
+B cells.B cells_s13	chr5-region_826	2	chr5	134738548	181248096
+B cells.B cells_s13	chr7-region_828	3	chr7	549197	54759974
+B cells.B cells_s13	chr7-region_830	3	chr7	92198969	159144867
+B cells.B cells_s13	chr11-region_834	3	chr11	167784	57568284
+B cells.B cells_s13	chr12-region_837	1	chr12	51281038	107093549
+B cells.B cells_s13	chr14-region_841	1	chr14	33924227	54539292
+B cells.B cells_s13	chr14-region_843	3	chr14	105736343	106851417
+B cells.B cells_s13	chr15-region_845	2	chr15	52307283	72376476
+B cells.B cells_s13	chr16-region_848	3	chr16	2911937	28539174
+B cells.B cells_s13	chr17-region_851	3	chr17	78214186	82945914
+B cells.B cells_s13	chr18-region_852	1	chr18	158383	80050651
+B cells.B cells_s13	chr20-region_855	2	chr20	52972358	64287821
+B cells.B cells_s14	chr1-region_859	3	chr1	155335268	179358680
+B cells.B cells_s14	chr2-region_862	3	chr2	47160083	74507695
+B cells.B cells_s14	chr5-region_867	1	chr5	172768096	181248096
+B cells.B cells_s14	chr7-region_870	3	chr7	26291895	100155944
+B cells.B cells_s14	chr8-region_873	1	chr8	8317736	51899186
+B cells.B cells_s14	chr9-region_876	2	chr9	128322544	137870016
+B cells.B cells_s14	chr11-region_879	3	chr11	43311963	62841809
+B cells.B cells_s14	chr12-region_882	3	chr12	26971579	49274603
+B cells.B cells_s14	chr14-region_887	3	chr14	103333544	106851417
+B cells.B cells_s14	chr16-region_890	3	chr16	28904421	67969601
+B cells.B cells_s14	chr18-region_894	3	chr18	23453287	80050651
+B cells.B cells_s14	chr19-region_896	1	chr19	45039045	58555105
+B cells.B cells_s14	chr20-region_897	1	chr20	346782	31801805
+B cells.B cells_s12	chr1-region_901	1	chr1	923928	9824526
+B cells.B cells_s12	chr1-region_903	3	chr1	12567910	25786207
+B cells.B cells_s12	chr1-region_905	3	chr1	32072031	39006059
+B cells.B cells_s12	chr1-region_906	1	chr1	39026318	55215364
+B cells.B cells_s12	chr1-region_908	3	chr1	111542218	151909637
+B cells.B cells_s12	chr1-region_909	1	chr1	151982915	173488815
+B cells.B cells_s12	chr1-region_911	3	chr1	184790724	206589448
+B cells.B cells_s12	chr1-region_913	3	chr1	230837119	248849517
+B cells.B cells_s12	chr2-region_915	3	chr2	156324437	216664436
+B cells.B cells_s12	chr3-region_918	1	chr3	38165089	100577444
+B cells.B cells_s12	chr3-region_919	3	chr3	100709331	184249548
+B cells.B cells_s12	chr4-region_922	1	chr4	107989714	189963202
+B cells.B cells_s12	chr5-region_923	1	chr5	271621	41921636
+B cells.B cells_s12	chr5-region_925	3	chr5	126776623	143435512
+B cells.B cells_s12	chr5-region_927	3	chr5	171861549	181248096
+B cells.B cells_s12	chr6-region_928	3	chr6	291630	30346884
+B cells.B cells_s12	chr6-region_929	1	chr6	30489509	36547479
+B cells.B cells_s12	chr6-region_931	1	chr6	100508194	132401475
+B cells.B cells_s12	chr6-region_932	3	chr6	132445867	170584692
+B cells.B cells_s12	chr7-region_934	3	chr7	22889371	43650713
+B cells.B cells_s12	chr7-region_936	3	chr7	75996338	105399308
+B cells.B cells_s12	chr7-region_938	3	chr7	148807383	159144867
+B cells.B cells_s12	chr8-region_940	1	chr8	80485619	145066685
+B cells.B cells_s12	chr9-region_941	1	chr9	14475	32568621
+B cells.B cells_s12	chr9-region_942	3	chr9	32553001	93085133
+B cells.B cells_s12	chr9-region_944	1	chr9	110243810	137870016
+B cells.B cells_s12	chr10-region_946	3	chr10	5412557	68343191
+B cells.B cells_s12	chr11-region_948	1	chr11	167784	32606264
+B cells.B cells_s12	chr11-region_949	3	chr11	32892820	57335892
+B cells.B cells_s12	chr11-region_950	1	chr11	57406954	76553025
+B cells.B cells_s12	chr11-region_951	3	chr11	76657524	134265855
+B cells.B cells_s12	chr12-region_953	1	chr12	53097436	57846729
+B cells.B cells_s12	chr12-region_954	3	chr12	59596029	104064183
+B cells.B cells_s12	chr12-region_955	1	chr12	104117086	121016502
+B cells.B cells_s12	chr13-region_957	1	chr13	19633659	36370180
+B cells.B cells_s12	chr14-region_960	3	chr14	24239643	53153282
+B cells.B cells_s12	chr14-region_962	3	chr14	69611596	100144236
+B cells.B cells_s12	chr15-region_964	1	chr15	22838641	49367869
+B cells.B cells_s12	chr15-region_966	3	chr15	90388242	101652391
+B cells.B cells_s12	chr16-region_968	3	chr16	2513952	12803887
+B cells.B cells_s12	chr16-region_970	1	chr16	22479121	31203450
+B cells.B cells_s12	chr16-region_971	3	chr16	31471585	75761872
+B cells.B cells_s12	chr16-region_973	1	chr16	87949244	89968060
+B cells.B cells_s12	chr17-region_975	1	chr17	757097	21315232
+B cells.B cells_s12	chr17-region_977	1	chr17	36544912	42798704
+B cells.B cells_s12	chr18-region_980	3	chr18	9546791	80050651
+B cells.B cells_s12	chr19-region_981	1	chr19	281040	41959321
+B cells.B cells_s12	chr19-region_982	3	chr19	42068477	48637379
+B cells.B cells_s12	chr19-region_983	1	chr19	48795062	58555105
+B cells.B cells_s12	chr20-region_984	3	chr20	346782	49953885
+B cells.B cells_s12	chr20-region_985	1	chr20	49982980	64287821
+B cells.B cells_s12	chr21-region_987	3	chr21	17788974	46665124
+B cells.B cells_s12	chr22-region_988	1	chr22	17084954	44219533
+B cells.B cells_s12	chr22-region_989	3	chr22	45163925	50628173

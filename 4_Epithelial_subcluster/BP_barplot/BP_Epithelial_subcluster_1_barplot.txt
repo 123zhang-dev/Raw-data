@@ -1,0 +1,15 @@
+Term	Count	PValue
+cell migration	62	1.0752686218789087e-11
+angiogenesis	53	5.334733371625504e-09
+positive regulation of apoptotic process	63	1.1103701927866409e-08
+regulation of circadian rhythm	22	9.404385107798347e-08
+protein phosphorylation	73	1.8443970494692734e-07
+cell cycle	61	1.3253820437765528e-06
+defense response to virus	44	2.67957716124081e-06
+negative regulation of viral genome replication	16	3.313985717705266e-06
+cell adhesion	82	5.815225805445538e-06
+negative regulation of apoptotic process	78	1.0844805903578822e-05
+endocytosis	36	4.72692247190964e-05
+response to hypoxia	33	5.065278937132237e-05
+response to virus	24	6.288503697725442e-05
+positive regulation of mitotic cell cycle	12	9.226515738298108e-05

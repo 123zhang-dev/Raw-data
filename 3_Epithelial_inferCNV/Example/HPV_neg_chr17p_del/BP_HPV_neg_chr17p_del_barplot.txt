@@ -1,0 +1,7 @@
+Term	Count	PValue
+actin cytoskeleton organization	7	0.004049801635322429
+JNK cascade	4	0.006939654499725763
+MAPK cascade	5	0.019133375277327364
+apoptotic process	9	0.03823913655320301
+activation of GTPase activity	4	0.04150948347886674
+lipid metabolic process	5	0.045693552384543515

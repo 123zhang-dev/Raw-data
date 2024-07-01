@@ -1,0 +1,9 @@
+Term	Count	PValue
+cell migration	13	0.0009436227126299664
+positive regulation of interleukin-8 production	6	0.002749302829068482
+regulation of interleukin-1 beta production	3	0.007341549733625648
+smooth muscle cell migration	3	0.009087741081882678
+positive regulation of T cell cytokine production	3	0.010999413815858332
+leukocyte activation	3	0.013071320162544768
+immune system process	5	0.013403985009295368
+positive regulation of T cell mediated cytotoxicity	4	0.01599216950648276

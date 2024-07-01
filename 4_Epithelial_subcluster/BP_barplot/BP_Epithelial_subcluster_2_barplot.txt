@@ -1,0 +1,12 @@
+Term	Count	PValue
+glycolytic process	11	3.1554327181038663e-07
+response to oxidative stress	14	2.608954391225283e-05
+canonical glycolysis	6	0.00013839001136899449
+GTP biosynthetic process	5	0.00019843820264343648
+glucose metabolic process	9	0.0002947955899882473
+gluconeogenesis	8	0.0003147530151333991
+positive regulation of translation	10	0.00043063842784913975
+cellular oxidant detoxification	9	0.0008561691305358971
+cell redox homeostasis	7	0.0009749123164352453
+cellular response to oxidative stress	9	0.004068954704343743
+cellular response to metal ion	4	0.004257544480229957
